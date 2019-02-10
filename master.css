@@ -8,6 +8,7 @@ body{
 
 header{
   border-top:8px solid burlywood;/*topmargin*/
+	width:auto;
 }
 
 header h1{
@@ -264,6 +265,7 @@ footer {
   text-align: center;
   color: #fff;
   background-color: burlywood;
+	width:auto;
 }
 
 footer ul {
